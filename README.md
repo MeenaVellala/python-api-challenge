@@ -47,6 +47,7 @@ Northern Hemisphere: Wind Speed vs. Latitude
 Southern Hemisphere: Wind Speed vs. Latitude
 
 After each pair of plots, explain what the linear regression is modeling. Describe any relationships that you notice and any other findings you may uncover.
+_________________________________________________________________________________________________________________________
 Part 2: VacationPy
 In this deliverable, you'll use your weather data skills to plan future vacations. Also, you'll use Jupyter notebooks, the geoViews Python library, and the Geoapify API.
 
